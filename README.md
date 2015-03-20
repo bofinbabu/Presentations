@@ -3,4 +3,5 @@ Here are some of my assignments or projects presentations related to regular cou
 That being said, no big deal!
 
 ####License
-All content in this directory can be used subject to Creative Commons [CC BY-NC-SA 4.0](CC BY-NC-SA 4.0) license
+All content in this directory can be used subject to Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+Author: [Bofin Babu](https://www.bofinbabu.com)
